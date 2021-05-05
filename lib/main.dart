@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
                   alignment: Alignment.center ,
                   height: 200,
                   width: 200,
-                  color: Colors.red,
+                  color: Colors.blue      ,
                   child: Text('maged'),
 
 
